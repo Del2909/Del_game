@@ -316,7 +316,7 @@ class startmenu():
         self.b4 = '(507, 300,250,50),"The Ivan Ling Level", [(0,255,0), (0,150,0)], action = self.ex'
         self.buttons = [self.b1, self.b2,self.b3,self.b4]
     def e(self):
-        start(0.25, self.size)
+        start(0.1, self.size)
     def n(self):
         start(0.5, self.size)
     def h(self):
